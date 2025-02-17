@@ -1,0 +1,28 @@
+git repo
+-------------------
+https://github.com/Damo27/PDAN_Classwork.git
+
+Python
+------
+https://www.python.org/downloads/
+
+Pip commands
+------------
+curl https://bootstrap.pypa.io/get-pip.py
+python get-pip.py
+pip install scikit-learn
+pip install numpy
+pip install matplotlib
+pip install pandas
+
+google colab
+------------
+https://colab.research.google.com/
+
+kaggle
+--------
+https://www.kaggle.com/
+https://www.kaggle.com/datasets/uciml/iris
+
+
+
