@@ -5,9 +5,13 @@ https://github.com/Damo27/PDAN_Classwork.git
 Python
 ------
 https://www.python.org/downloads/
+python path - C:\Users\Damion\AppData\Local\Programs\Python\Python313
+            - C:\Users\Damion\AppData\Local\Programs\Python\Python313\Scripts
 
 Pip commands
 ------------
+https://phoenixnap.com/kb/install-pip-windows
+
 curl https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 pip install scikit-learn
