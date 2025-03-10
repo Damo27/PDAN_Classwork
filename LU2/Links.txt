@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris
+
+https://www.kaggle.com/code/drananthalakshmi/penguin-classification
