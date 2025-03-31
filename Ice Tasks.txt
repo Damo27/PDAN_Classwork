@@ -1,0 +1,12 @@
+Ice Task 1: Supervised model
+
+Ice Task 2: Unsupervised model
+
+Ice Task 3: Create a PowerBI dashboard for POE dataset
+
+Ice Task 4: 
+Presentation on POE Dataset Data Analyses:
+	1. What is your target
+	2. What variables are you using to get to target
+	3. Steps taken to clean data
+	4. min 3 Visuals explaining your data
